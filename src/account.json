@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Sergio F",
+    "cpf": "75",
+    "birthDate": "07/04/1994",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "Sergio Melo",
+    "cpf": "11",
+    "birthDate": "07/04/1994",
+    "balance": 0,
+    "transactions": [
+      {
+        "type": "entrada",
+        "value": 50,
+        "description": "Transação em Dinheiro",
+        "date": "Sun May 07 2023 21:35:38 GMT-0300 (GMT-03:00)"
+      },
+      {
+        "type": "entrada",
+        "value": 50,
+        "description": "Transação em Dinheiro",
+        "date": "Sun May 07 2023 21:36:57 GMT-0300 (GMT-03:00)"
+      },
+      {
+        "type": "saida",
+        "value": -50,
+        "description": "Transação em Dinheiro",
+        "date": "Sun May 07 2023 21:37:38 GMT-0300 (GMT-03:00)"
+      },
+      {
+        "type": "saida",
+        "value": -50,
+        "description": "Transação em Dinheiro",
+        "date": "Sun May 07 2023 21:42:03 GMT-0300 (GMT-03:00)"
+      }
+    ]
+  },
+  {
+    "name": "Felipe Melo",
+    "cpf": "12",
+    "birthDate": "Mon Jul 04 1994 00:00:00 GMT-0300 (GMT-03:00)",
+    "balance": 25,
+    "transactions": [
+      {
+        "type": "entrada",
+        "value": 50,
+        "description": "Transação em Dinheiro",
+        "date": "Sun May 07 2023 22:12:09 GMT-0300 (GMT-03:00)"
+      },
+      {
+        "type": "saida",
+        "value": -25,
+        "description": "Transação em Dinheiro",
+        "date": "Sun May 07 2023 22:12:20 GMT-0300 (GMT-03:00)"
+      }
+    ]
+  }
+]
